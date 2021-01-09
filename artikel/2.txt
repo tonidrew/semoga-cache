@@ -1,0 +1,142 @@
+A [judul] {is a|is really a|is actually a|can be a|is often a|is usually a} simplified {conventional|standard|traditional|typical|regular|common} pictorial {representation|illustration} {of an|of the} electrical circuit. It {shows|exhibits|displays|demonstrates|reveals} the {components|elements|parts|factors} {of the|from the|in the|on the|with the|of your} circuit as simplified {shapes|designs|styles}, and {the power|the ability|the facility} and {signal|sign} connections {between|in between|among|amongst|involving|concerning} the {devices|gadgets|units|products|equipment}.
+<BR><BR>
+A [judul] {usually|generally|typically|normally|commonly|ordinarily} {gives|provides|offers|presents} {information about|details about|information regarding|specifics of} the relative {position|place|placement|situation|posture} and arrangement of {devices|gadgets|units|products|equipment} and terminals {on the|around the|within the|about the|to the|over the} {devices|gadgets|units|products|equipment}, {to help|to assist|to aid|to help you|that can help|that will help} in {building|developing|creating|constructing|making|setting up} or servicing the {device|gadget|unit|system|product|machine}. {This is|This really is|This can be|That is|This is certainly|This is often} {unlike|in contrast to|as opposed to|not like|contrary to|compared with} a schematic diagram, {where|exactly where|in which|the place|wherever|where by} the arrangement {of the|from the|in the|on the|with the|of your} {components|elements|parts|factors}' interconnections {on the|around the|within the|about the|to the|over the} diagram {usually|generally|typically|normally|commonly|ordinarily} {does not|doesn't|will not|isn't going to|won't|would not} correspond {to the|towards the|for the|on the|to your|into the} {components|elements|parts|factors}' {physical|Bodily|Actual physical} {locations|places|areas|spots|destinations} {in the|within the|inside the|while in the|from the|during the} {finished|completed|concluded} {device|gadget|unit|system|product|machine}. A pictorial diagram would {show|display|present|demonstrate|exhibit|clearly show} {more|much more|a lot more|far more|additional|extra} {detail|depth|element} {of the|from the|in the|on the|with the|of your} {physical|Bodily|Actual physical} {appearance|look|physical appearance|visual appeal|overall look|visual appearance}, {whereas|While|Whilst} a [judul] {uses|utilizes|makes use of|employs|works by using|takes advantage of} {a more|a far more} symbolic notation {to emphasize|to emphasise} interconnections {over|more than|above|in excess of|about|around} {physical|Bodily|Actual physical} {appearance|look|physical appearance|visual appeal|overall look|visual appearance}.
+<BR><BR>
+A [judul] {is often|is usually|is frequently|is commonly} {used to|accustomed to|utilized to} troubleshoot {problems|issues|difficulties|troubles|challenges|complications} and {to make sure that|to make certain that|to ensure that|to be sure that} {all the|all of the|each of the|every one of the|the many|many of the} connections {have been|happen to be|have already been|are already|are|are actually} {made|produced|created|manufactured|designed|built} {and that|Which} {everything|every thing|every little thing|almost everything|anything|all the things} is {present|current|existing}.
+
+<BR><BR>
+
+[judul]s {show|display|present|demonstrate|exhibit|clearly show} the approximate {locations|places|areas|spots|destinations} and interconnections of receptacles, {lighting|lights}, and {permanent|long term|long lasting|everlasting|lasting|long-lasting} electrical {services|solutions|providers|companies|expert services|products and services} {in a|inside a|within a|in the|in a very|inside of a} {building|developing|creating|constructing|making|setting up}. Interconnecting wire routes {may be|might be|could be|could possibly be|can be|may very well be} {shown|proven|demonstrated|revealed} {approximately|roughly|around|about|somewhere around|close to}, {where|exactly where|in which|the place|wherever|where by} {particular|specific|certain|distinct|unique|individual} receptacles or fixtures {must be|should be|has to be|have to be|need to be|needs to be} on {a common|a typical|a standard} circuit.
+<BR><BR>
+[judul]s use {standard|regular|normal|common|typical|conventional} symbols for wiring {devices|gadgets|units|products|equipment}, {usually|generally|typically|normally|commonly|ordinarily} {different|various|distinct|diverse|unique|distinctive} from {those|These|Individuals|People|All those|Those people} {used|utilized|employed|utilised|applied|made use of} on schematic diagrams. The electrical symbols {not only|not just|not merely|not simply|don't just} {show|display|present|demonstrate|exhibit|clearly show} {where|exactly where|in which|the place|wherever|where by} {something|some thing|one thing|anything|a thing|a little something} {is to|would be to|is always to|is usually to|will be to|should be to} be {installed|set up|put in|mounted}, {but also|but additionally|but in addition|and also|but will also} {what type of|which kind of|what sort of} {device|gadget|unit|system|product|machine} is {being|becoming|getting|currently being|staying|remaining} {installed|set up|put in|mounted}. {For example|For instance|As an example|By way of example|One example is|Such as}, a {surface|surface area|floor|area} ceiling {light|mild|gentle|light-weight} is {shown|proven|demonstrated|revealed} by {one|1|a single|one particular|just one|a person} {symbol|image}, a recessed ceiling {light|mild|gentle|light-weight} has {a different|a special|a distinct|a unique|another} {symbol|image}, {and a|along with a|as well as a|plus a|and also a|in addition to a} {surface|surface area|floor|area} fluorescent {light|mild|gentle|light-weight} has {another|An additional|Yet another|One more|A different|A further} {symbol|image}. {Each|Every|Each and every|Every single|Just about every|Each individual} {type of|kind of|sort of|form of|style of|variety of} {switch|change|swap} has {a different|a special|a distinct|a unique|another} {symbol|image} and so do {the various|the assorted|the different|the varied} {outlets|shops|retailers|stores}. {There are|You will find|You'll find|You can find|You will discover|There are actually} symbols that {show|display|present|demonstrate|exhibit|clearly show} {the location|The placement|The situation} of smoke detectors, the doorbell chime, and thermostat. On {large|big|huge|massive|substantial|significant} {projects|tasks|assignments|initiatives|jobs} symbols {may be|might be|could be|could possibly be|can be|may very well be} numbered {to show|to indicate|to point out}, {for example|for instance|as an example|by way of example|one example is|such as}, the panel board and circuit to which the {device|gadget|unit|system|product|machine} connects, {and also|as well as|and in addition|and likewise|in addition to} to {identify|determine|recognize|discover|establish|detect} which of {several|a number of|numerous|many|various|quite a few} {types of|kinds of|varieties of|forms of|sorts of|different types of} fixture are {to be|to become|for being|to get|being|to generally be} {installed|set up|put in|mounted} at that {location|place|area|spot|site|locale}.
+<BR><BR>
+A {set of|list of} [judul]s {may be|might be|could be|could possibly be|can be|may very well be} {required|needed|necessary|essential|expected|demanded} {by the|from the|through the|with the|because of the|via the} electrical inspection authority to approve {connection|link|relationship} {of the|from the|in the|on the|with the|of your} {residence|home} to {the public|the general public} electrical {supply|provide|offer|source} {system|method|program|technique|process|procedure}.
+<BR><BR>
+[judul]s {will also|may also|will even|may even|can even|will likely} {include|consist of|contain|incorporate|include things like|involve} panel schedules for circuit breaker panelboards, and riser diagrams for {special|Unique|Particular|Specific|Exclusive|Distinctive} {services|solutions|providers|companies|expert services|products and services} {such as|like|including|for example|for instance|which include} {fire|hearth|fireplace} alarm or {closed|shut} circuit {television|tv} or other {special|Unique|Particular|Specific|Exclusive|Distinctive} {services|solutions|providers|companies|expert services|products and services}.
+<hr>
+Activity diagram used in UML 6/9 and SysML
+Bachman diagram
+Booch – used in software engineering
+Block diagram
+Block definition diagram (BDD) used in SysML
+Carroll diagram
+Cartogram
+Catalytic cycle
+Computer network diagram
+Chemical equation
+Curly arrow diagram
+Category theory diagrams
+Cause-and-effect diagram
+Chord diagram
+Circuit diagram
+Class diagram – from UML 1/9
+Collaboration diagram – from UML 2.0
+Communication diagram – from UML 2.0
+Commutative diagram
+Comparison diagram
+Component diagram – from UML 3/9
+Composite structure diagram – from UML 2.0
+Concept map
+Constellation diagram
+Context diagram
+Control flow diagram
+Contour diagram
+Cordier diagram
+Cross functional flowchart
+Data model diagram
+Data flow diagram
+Data structure diagram
+Dendrogram
+Dependency diagram
+Deployment diagram – from UML 9/9
+Dot and cross diagram
+Double bubble map – used in education
+Drakon-chart
+Entity-relationship diagram (ERD)
+Event-driven process chain
+Euler diagram
+Eye diagram – a diagram of a received telecommunications signal
+Express-G
+Extended functional flow block diagram (EFFBD)
+Family tree
+Feynman diagram
+Flow chart
+Flow process chart
+Flow diagram
+Fusion diagram
+Free body diagram
+Gantt chart – shows the timing of tasks or activities (used in project management)
+Grotrian diagram
+Goodman diagram – shows the fatigue data (example: for a wind turbine blades)
+Hasse diagram
+HIPO diagram
+Internal block diagram (IBD) used in SysML
+IDEF0
+IDEF1 (entity relations)
+Interaction overview diagram – from UML
+Ishikawa diagram
+Jackson diagram
+Karnaugh map
+Kinematic diagram
+Ladder diagram
+Line of balance
+Link grammar diagram
+Martin ERD
+Message sequence chart
+Mind map – used for learning, brainstorming, memory, visual thinking and problem solving
+Minkowski spacetime diagram
+Molecular orbital diagram
+N2
+Nassi–Shneiderman diagram or structogram – a representation for structured programming
+Nomogram
+Network diagram
+Object diagram – from UML 2/9
+Organigram
+Onion diagram – also known as "stacked Venn diagram"
+Package diagram from UML 4/9 and SysML
+Parametric diagram from SysML
+PERT
+Petri net – shows the structure of a distributed system as a directed bipartite graph with annotations
+Phylogenetic tree - represents a phylogeny (evolutionary relationships among groups of organisms)
+Piping and instrumentation diagram (P&ID)
+Phase diagram used to present solid/liquid/gas information
+Plant diagram
+Pressure volume diagram used to analyse engines
+Pourbaix diagram
+Process flow diagram or PFD – used in chemical engineering
+Program structure diagram
+Radar chart
+Radial diagram
+Requirement diagram Used in SysML
+Rich picture
+R-diagram
+Routing diagram
+Sankey diagram – represents material, energy or cost flows with quantity proportional arrows in a process network
+Sentence diagram – represents the grammatical structure of a natural language sentence
+Sequence diagram from UML 8/9 and SysML
+SDL/GR diagram – specification and description Language. SDL is a formal language used in computer science.
+Smith chart
+Spider chart
+Spray diagram
+SSADM – structured systems analysis and design methodology (used in software engineering)
+Star chart/Celestial sphere
+State diagram are used for state machines in software engineering from UML 7/9
+Swim lane
+Syntax diagram used in software engineering to represent a context-free grammar
+Systems Biology Graphical Notation – a graphical notation used in diagrams of biochemical and cellular processes studied in systems biology
+System context diagram
+System structure
+Systematic layout planning
+Timing diagram: digital timing diagram
+Timing diagram: UML 2.0
+TQM diagram
+Treemap
+UML diagram – Unified Modeling Language (used in software engineering)
+Use case diagram – from UML 5/9 and SysML
+Value stream mapping
+Venn diagram
+Voronoi diagram
+Warnier-Orr
+Williot diagram
+Yourdon-Coad – see Edward Yourdon, used in software engineering
+<hr>

@@ -1,0 +1,168 @@
+A circuit [judul] (electrical [judul], elementary [judul], {electronic|Digital} schematic) {is a|is really a|is actually a|can be a|is often a|is usually a} graphical {representation|illustration} {of an|of the} electrical circuit. A pictorial circuit [judul] {uses|utilizes|makes use of|employs|works by using|takes advantage of} {simple|easy|straightforward|basic|uncomplicated|very simple} {images|pictures|photos|photographs|illustrations or photos|visuals} of {components|elements|parts|factors}, {while|whilst|although|even though|when|though} a schematic [judul] {shows|exhibits|displays|demonstrates|reveals} the {components|elements|parts|factors} and interconnections {of the|from the|in the|on the|with the|of your} circuit {using|utilizing|making use of|employing|working with|applying} standardized symbolic representations. The presentation {of the|from the|in the|on the|with the|of your} interconnections {between|in between|among|amongst|involving|concerning} circuit {components|elements|parts|factors} {in the|within the|inside the|while in the|from the|during the} schematic [judul] {does not|doesn't|will not|isn't going to|won't|would not} {necessarily|always|automatically|essentially} correspond {to the|towards the|for the|on the|to your|into the} {physical|Bodily|Actual physical} {arrangements|preparations} {in the|within the|inside the|while in the|from the|during the} {finished|completed|concluded} {device|gadget|unit|system|product|machine}.{1|one}
+<BR><BR>
+{Unlike|In contrast to|As opposed to|Not like|Contrary to|Compared with} a block [judul] or {layout|format|structure} [judul], a circuit [judul] {shows|exhibits|displays|demonstrates|reveals} {the actual|the particular} electrical connections. A drawing {meant|intended} to depict the {physical|Bodily|Actual physical} arrangement {of the|from the|in the|on the|with the|of your} wires {and the|and also the|as well as the|along with the|plus the|as well as} {components|elements|parts|factors} they {connect|link|hook up|join} {is called|is known as|is named|is termed|is referred to as|known as} artwork or {layout|format|structure}, {physical|Bodily|Actual physical} {design|style|design and style|layout|style and design|structure}, or wiring [judul].
+<BR><BR>
+Circuit [judul]s are {used for|utilized for|employed for|useful for} {the design|the look} (circuit {design|style|design and style|layout|style and design|structure}), {construction|building|development|design} ({such as|like|including|for example|for instance|which include} PCB {layout|format|structure}), and {maintenance|upkeep|servicing|routine maintenance} of electrical and {electronic|Digital} {equipment|gear|tools|products|devices|machines}.
+<BR><BR>
+In {computer|Pc|Personal computer|Laptop|Computer system|Laptop or computer} science, circuit [judul]s are {useful|helpful|beneficial|valuable|handy|practical} when visualizing expressions {using|utilizing|making use of|employing|working with|applying} Boolean algebra.{2|two}
+<BR><BR>
+Circuit [judul]s are {pictures|photos|images|photographs|pics|shots} with symbols {that have|which have} differed from {country|nation|region|place|state} to {country|nation|region|place|state} {and have|and also have|and possess} {changed|altered|modified|transformed|adjusted|improved} {over time|as time passes|with time|after a while|after some time|eventually}, but {are now|are actually|at the moment are} to {a large|a sizable|a big|a substantial|a considerable|a significant} extent internationally standardized. {Simple|Easy|Straightforward|Basic|Uncomplicated|Very simple} {components|elements|parts|factors} {often|frequently|usually|typically|generally|normally} {had|experienced} symbols {intended to|meant to} {represent|signify|symbolize|depict|characterize|stand for} some {feature|function|characteristic|attribute|element|aspect} {of the|from the|in the|on the|with the|of your} {physical|Bodily|Actual physical} {construction|building|development|design} {of the|from the|in the|on the|with the|of your} {device|gadget|unit|system|product|machine}. {For example|For instance|As an example|By way of example|One example is|Such as}, the {symbol|image} {for a|to get a|for any|for the|for your|for just a} resistor {shown|proven|demonstrated|revealed} {here|right here|listed here|below|in this article} dates {back|back again|again} to {the days|the times} when that {component|element|part|ingredient} was {made from|produced from|created from|made out of|constructed from|comprised of} {a long|an extended|a protracted|a lengthy} {piece of|bit of} wire wrapped in {such a|this type of|this kind of} {manner|method|way|fashion} as {to not|not to} {produce|create|generate|make|develop|deliver} inductance, {which would|which might} have {made|produced|created|manufactured|designed|built} it a coil. These wirewound resistors {are now|are actually|at the moment are} {used|utilized|employed|utilised|applied|made use of} only in {high|higher|large|substantial|significant|superior}-{power|energy|electrical power|electricity|electric power|ability} {applications|programs|apps|purposes}, {smaller|smaller sized|more compact|scaled-down|lesser} resistors {being|becoming|getting|currently being|staying|remaining} {cast|Solid|Forged} from carbon composition ({a mixture|a mix|a combination} of carbon and filler) or fabricated {as an|being an} insulating tube or chip coated {with a|having a|using a|by using a|that has a|which has a} {metal|steel|metallic} {film|movie}. The internationally standardized {symbol|image} {for a|to get a|for any|for the|for your|for just a} resistor is {therefore|consequently|as a result|for that reason|thus|hence} now simplified to an {oblong|rectangular}, {sometimes|occasionally|at times|often|from time to time|in some cases} with {the value|the worth} in ohms {written|created|composed|prepared|published|penned} {inside|within|inside of}, {instead of|rather than|as opposed to|as an alternative to|in place of|in lieu of} the zig-zag {symbol|image}. A {less|much less|significantly less|considerably less|a lot less|fewer} {common|typical|frequent|widespread|prevalent|popular} {symbol|image} {is simply|is just|is actually|is solely} a {series of|number of} peaks on {one|1|a single|one particular|just one|a person} {side|aspect|facet} of {the line|the road} {representing|symbolizing} the conductor, {rather than|instead of|as opposed to|as an alternative to|in lieu of|rather then} {back|back again|again}-and-forth as {shown|proven|demonstrated|revealed} {here|right here|listed here|below|in this article}.
+<BR><BR>
+
+Wire Crossover Symbols for Circuit [judul]s. The CAD {symbol|image} for insulated crossing wires is {the same as|similar to} the {older|more mature}, non-CAD {symbol|image} for non-insulated crossing wires. {To avoid|To prevent|In order to avoid|To stop|To stay away from} confusion, the wire "{jump|leap|soar|bounce}" (semi-circle) {symbol|image} for insulated wires in non-CAD schematics {is recommended|is suggested|is usually recommended} ({as opposed to|instead of|rather than|in contrast to|versus} {using the|utilizing the} CAD-{style|fashion|design|type|model|design and style} {symbol|image} for no {connection|link|relationship}), {so as to|in order to|to be able to} {avoid|steer clear of|stay away from|keep away from|prevent|stay clear of} confusion with {the original|the initial|the first}, {older|more mature} {style|fashion|design|type|model|design and style} {symbol|image}, {which means|which suggests|meaning|which implies} {the exact|the precise} {opposite|reverse}. The {newer|more recent}, {recommended|suggested|advised|advisable|encouraged|proposed} {style|fashion|design|type|model|design and style} for {4|four}-way wire connections in {both|each|the two|equally|both equally|both of those} CAD and non-CAD schematics {is to|would be to|is always to|is usually to|will be to|should be to} stagger the {joining|becoming a member of|signing up for} wires into T-junctions.{3|three}
+The linkages {between|in between|among|amongst|involving|concerning} {leads|prospects|qualified prospects|sales opportunities|potential customers} {were|had been|have been|ended up|were being} {once|as soon as|when|after|the moment|at the time} {simple|easy|straightforward|basic|uncomplicated|very simple} crossings of {lines|traces|strains}. {With the|Using the|With all the|Together with the|Along with the|While using the} arrival of computerized drafting, the {connection|link|relationship} of two intersecting wires was {shown|proven|demonstrated|revealed} by a crossing of wires {with a|having a|using a|by using a|that has a|which has a} "dot" or "blob" {to indicate|to point} a {connection|link|relationship}. {At the same time|Simultaneously|Concurrently}, the crossover was simplified {to be|to become|for being|to get|being|to generally be} {the same|exactly the same|the identical|precisely the same|the exact same|a similar} crossing, but {without a|with no|with out a|and not using a|without having a} "dot". {However|Nevertheless|Nonetheless|Even so|On the other hand|Having said that}, there was a {danger|Hazard|Threat|Risk} of {confusing|perplexing|complicated|puzzling|baffling|bewildering} the wires {that were|which were} {connected|linked|related} {and not|and never|rather than|instead of} {connected|linked|related} {in this|Within this|On this|In this particular|With this|During this} {manner|method|way|fashion}, {if the|When the|In the event the|In case the|If your|Should the} dot was drawn {too|as well|also|way too|far too|much too} {small|little|tiny|modest|smaller|compact} or {accidentally|unintentionally} omitted (e.g. the "dot" could {disappear|vanish} {after|following|right after|soon after|immediately after|just after} {several|a number of|numerous|many|various|quite a few} passes {through a|by way of a|via a} {copy|duplicate} {machine|device|equipment}).{4|four} {As such|As a result|Therefore}, {the modern|the fashionable|the trendy} {practice|apply|follow|exercise|observe} for {representing|symbolizing} a {4|four}-way wire {connection|link|relationship} is {to draw|to attract} a straight wire {and then|and after that|after which|then|and afterwards|after which you can} {to draw|to attract} {the other|another|the opposite|one other} wires staggered {along|alongside|together} it with "dots" as connections (see [judul]), {so as to|in order to|to be able to} {form|type|kind|sort|variety} two {separate|independent|individual|different} T-junctions that brook no confusion {and are|and therefore are|and so are|and they are} {clearly|Obviously|Plainly|Evidently} not a crossover.{56|fifty six}
+<BR><BR>
+For crossing wires {that are|which are|which can be|which might be|that happen to be|which have been} insulated from {one another|each other}, {a small|a little} semi-circle {symbol|image} {is commonly|is often|is usually} {used to|accustomed to|utilized to} {show|display|present|demonstrate|exhibit|clearly show} {one|1|a single|one particular|just one|a person} wire "{jumping|leaping} {over|more than|above|in excess of|about|around}" {the other|another|the opposite|one other} wire378 ({similar to|much like|just like|comparable to} how jumper wires are {used|utilized|employed|utilised|applied|made use of}).
+<BR><BR>
+{A common|A typical|A standard}, hybrid {style of|type of|kind of|form of|variety of|sort of} drawing {combines|brings together} the T-junction crossovers with "dot" connections {and the|and also the|as well as the|along with the|plus the|as well as} wire "{jump|leap|soar|bounce}" semi-circle symbols for insulated crossings. {In this|Within this|On this|In this particular|With this|During this} {manner|method|way|fashion}, a "dot" {that is|that's|which is|that is certainly|that is definitely|that may be} {too|as well|also|way too|far too|much too} {small|little|tiny|modest|smaller|compact} {to see|to determine|to find out|to view|to discover|to check out} or {that has|which has|which includes} {accidentally|unintentionally} disappeared can {still|nonetheless|nevertheless|even now|however|continue to} be {clearly|Obviously|Plainly|Evidently} differentiated {from a|from the} "{jump|leap|soar|bounce}".37
+<BR><BR>
+{On a|On the|Over a|With a} circuit [judul], the symbols for {components|elements|parts|factors} are labelled {with a|having a|using a|by using a|that has a|which has a} descriptor or reference designator matching that {on the|around the|within the|about the|to the|over the} {list of|listing of} {parts|components|elements|areas|sections|pieces}. {For example|For instance|As an example|By way of example|One example is|Such as}, C1 is {the first|the very first|the initial|the primary|the 1st|the main} capacitor, L1 is {the first|the very first|the initial|the primary|the 1st|the main} inductor, Q1 is {the first|the very first|the initial|the primary|the 1st|the main} transistor, and R1 is {the first|the very first|the initial|the primary|the 1st|the main} resistor. {Often|Frequently|Usually|Typically|Generally|Normally} {the value|the worth} or {type|kind|sort|variety|form|style} designation {of the|from the|in the|on the|with the|of your} {component|element|part|ingredient} is {given|offered|provided|presented|supplied|specified} {on the|around the|within the|about the|to the|over the} [judul] beside the {part|component|element|portion|aspect|section}, but {detailed|comprehensive|in depth|thorough|specific|in-depth} {specifications|specs|requirements|technical specs} would go {on the|around the|within the|about the|to the|over the} {parts|components|elements|areas|sections|pieces} {list|checklist|listing|record}.
+<BR><BR>
+{Detailed|Comprehensive|In depth|Thorough|Specific|In-depth} {rules|guidelines|principles|policies|regulations|procedures} for reference designations are {provided|supplied|offered|presented|furnished|delivered} {in the|within the|inside the|while in the|from the|during the} {International|Worldwide|Global|Intercontinental} {standard|regular|normal|common|typical|conventional} IEC 61346.
+<BR><BR>
+{Organization|Business|Firm|Group|Corporation}
+{It is a|It's a|This is a|It is just a|It's really a} {usual|typical|normal|common|regular|standard} {although|Even though|Though|Despite the fact that|While|Whilst} not {universal|common} {convention|Conference} that schematic drawings are {organized|arranged|structured} {on the|around the|within the|about the|to the|over the} {page|web page|webpage|website page|site|web site} from {left|still left|remaining} to {right|correct|proper|appropriate|suitable|ideal} and {top|leading|best|prime|top rated|major} to {bottom|base} in {the same|exactly the same|the identical|precisely the same|the exact same|a similar} sequence {as the|because the|since the|as being the|given that the} {flow|movement|circulation|stream|move} of {the main|the primary|the key|the principle|the leading|the most crucial} {signal|sign} or {power|energy|electrical power|electricity|electric power|ability} {path|route}. {For example|For instance|As an example|By way of example|One example is|Such as}, a schematic {for a|to get a|for any|for the|for your|for just a} radio receiver {might|may|may well|may possibly|could|could possibly} {start with|begin with|get started with} the antenna {input|enter} {at the|in the|on the|with the|for the|within the} {left|still left|remaining} {of the|from the|in the|on the|with the|of your} {page|web page|webpage|website page|site|web site} and {end|finish|stop|conclude|conclusion|close} {with the|Using the|With all the|Together with the|Along with the|While using the} loudspeaker at {the right|the proper|the correct|the best|the appropriate|the ideal}. {Positive|Good|Optimistic|Constructive|Beneficial|Favourable} {power|energy|electrical power|electricity|electric power|ability} {supply|provide|offer|source} connections {for each|for every} {stage|phase} {would be|could be|will be|can be|might be|could well be} {shown|proven|demonstrated|revealed} {towards|in the direction of|in direction of|toward|to} {the top|the very best|the highest|the best} {of the|from the|in the|on the|with the|of your} {page|web page|webpage|website page|site|web site}, with grounds, {negative|unfavorable|damaging|adverse|detrimental|destructive} {supplies|provides|materials}, or other return paths {towards|in the direction of|in direction of|toward|to} {the bottom|The underside}. Schematic drawings {intended|meant|supposed} for {maintenance|upkeep|servicing|routine maintenance} {may|might|could|may possibly|may well|may perhaps} {have the|possess the|hold the|provide the|contain the} principal {signal|sign} paths highlighted {to assist|to help|to aid} in {understanding|comprehending|knowing|comprehension|knowledge|being familiar with} the {signal|sign} {flow|movement|circulation|stream|move} {through the|with the|throughout the|from the|in the} circuit. {More|Much more|A lot more|Far more|Additional|Extra} {complex|complicated|sophisticated|intricate|advanced|elaborate} {devices|gadgets|units|products|equipment} have multi-{page|web page|webpage|website page|site|web site} schematics and {must|should|need to|have to|ought to|will have to} {rely on|depend on|count on|depend upon|trust in|rely upon} cross-reference symbols {to show|to indicate|to point out} the {flow|movement|circulation|stream|move} of {signals|indicators|alerts} {between|in between|among|amongst|involving|concerning} {the different|the various|the several|different} sheets {of the|from the|in the|on the|with the|of your} drawing.
+<BR><BR>
+{Detailed|Comprehensive|In depth|Thorough|Specific|In-depth} {rules|guidelines|principles|policies|regulations|procedures} {for the|for your|to the|for that|with the} {preparation|planning|preparing} of circuit [judul]s, {and other|as well as other|along with other|and also other|together with other|and various} {document|doc} {types|kinds|varieties|sorts|forms|styles} {used in|Utilized in|Employed in} electrotechnology, are {provided|supplied|offered|presented|furnished|delivered} {in the|within the|inside the|while in the|from the|during the} {international|Worldwide|Global|Intercontinental} {standard|regular|normal|common|typical|conventional} IEC 61082-{1|one}.
+<BR><BR>
+Relay logic line [judul]s, {also called|also referred to as|also known as} ladder logic [judul]s, use {another|An additional|Yet another|One more|A different|A further} {common|typical|frequent|widespread|prevalent|popular} standardized {convention|Conference} for {organizing|Arranging} schematic drawings, {with a|having a|using a|by using a|that has a|which has a} vertical {power|energy|electrical power|electricity|electric power|ability} {supply|provide|offer|source} rail {on the|around the|within the|about the|to the|over the} {left|still left|remaining} and {another|An additional|Yet another|One more|A different|A further} on {the right|the proper|the correct|the best|the appropriate|the ideal}, and {components|elements|parts|factors} strung {between|in between|among|amongst|involving|concerning} them {like the|just like the|such as the|much like the|similar to the|such as} rungs {of a|of the} ladder.
+
+Artwork
+<BR><BR>
+A rat's nest
+{Once the|After the|When the|As soon as the} schematic {has been|continues to be|is|has become|has actually been|has long been} {made|produced|created|manufactured|designed|built}, {it is|it's|it really is|it truly is|it can be|it is actually} {converted|transformed} {into a|right into a} {layout|format|structure} {that can be|that may be|which can be|that could be|which might be} fabricated {onto|on to} a printed circuit board (PCB). Schematic-{driven|pushed} {layout|format|structure} {starts|begins|commences|starts off} with {the process of|the entire process of|the whole process of} schematic {capture|seize}. {The result|The end result} {is what|is exactly what} {is known as|is called|is recognized as|is referred to as|is named} a rat's nest. The rat's nest {is a|is really a|is actually a|can be a|is often a|is usually a} jumble of wires ({lines|traces|strains}) criss-crossing {each other|one another} {to their|for their} {destination|location|vacation spot|spot|place|desired destination} nodes. These wires are routed {either|both|possibly} manually or {automatically|immediately|instantly|routinely|mechanically|quickly} by {the use of|the usage of|using} electronics {design|style|design and style|layout|style and design|structure} automation (EDA) {tools|resources|equipment|instruments|applications}. The EDA {tools|resources|equipment|instruments|applications} {arrange|organize|prepare|set up} and rearrange {the placement|The position|The location} of {components|elements|parts|factors} and {find|discover|locate|uncover|come across|obtain} paths for tracks {to connect|to attach} {various|numerous|different|a variety of|several|many} nodes. This {results in|leads to|ends in|brings about} {the final|the ultimate} {layout|format|structure} artwork {for the|for your|to the|for that|with the} {integrated|built-in} circuit or printed circuit board.{9|nine}
+<BR><BR>
+A generalized {design|style|design and style|layout|style and design|structure} {flow|movement|circulation|stream|move} {may be|might be|could be|could possibly be|can be|may very well be} as follows:
+<BR><BR>
+Schematic ? schematic {capture|seize} ? netlist ? rat's nest ? routing ? artwork ? PCB {development|improvement|advancement|growth|progress|enhancement} and etching ? {component|element|part|ingredient} mounting ? {testing|screening|tests}
+{Education|Training|Schooling|Education and learning|Instruction}
+{Teaching|Educating|Instructing|Training} {about the|concerning the|regarding the|in regards to the|with regards to the|with regard to the} {functioning|working|operating|performing} of electrical circuits {is often|is usually|is frequently|is commonly} on {primary|Main|Major|Principal|Key|Most important} and secondary {school|college|university|faculty} curricula.{10|ten} {Students|College students|Pupils|Learners} are {expected|anticipated|predicted|envisioned} {to understand|to know|to comprehend|to grasp|to be aware of|to be familiar with} the rudiments of circuit [judul]s {and their|as well as their} {functioning|working|operating|performing}. {Use of|Utilization of|Usage of} [judul]matic representations of circuit [judul]s can {aid|help|assist|support} {understanding of|knowledge of|comprehension of|idea of} {principles|ideas|rules|concepts} of {electricity|electrical energy|electrical power|electric power|energy}.
+<BR><BR>
+{Principles|Ideas|Rules|Concepts} {of the|from the|in the|on the|with the|of your} physics of circuit [judul]s {are often|tend to be|are frequently|are sometimes|in many cases are|will often be} taught with {the use of|the usage of|using} analogies, {such as|like|including|for example|for instance|which include} {comparing|evaluating} {functioning|working|operating|performing} of circuits to other {closed|shut} {systems|methods|techniques|programs|devices|units} {such as|like|including|for example|for instance|which include} {water|drinking water|h2o} heating {systems|methods|techniques|programs|devices|units} with pumps {being|becoming|getting|currently being|staying|remaining} the {equivalent to|comparable to|similar to|akin to|reminiscent of|such as} batteries.{11|eleven}
+<hr>
+Activity diagram used in UML 6/9 and SysML
+Bachman diagram
+Booch – used in software engineering
+Block diagram
+Block definition diagram (BDD) used in SysML
+Carroll diagram
+Cartogram
+Catalytic cycle
+Computer network diagram
+Chemical equation
+Curly arrow diagram
+Category theory diagrams
+Cause-and-effect diagram
+Chord diagram
+Circuit diagram
+Class diagram – from UML 1/9
+Collaboration diagram – from UML 2.0
+Communication diagram – from UML 2.0
+Commutative diagram
+Comparison diagram
+Component diagram – from UML 3/9
+Composite structure diagram – from UML 2.0
+Concept map
+Constellation diagram
+Context diagram
+Control flow diagram
+Contour diagram
+Cordier diagram
+Cross functional flowchart
+Data model diagram
+Data flow diagram
+Data structure diagram
+Dendrogram
+Dependency diagram
+Deployment diagram – from UML 9/9
+Dot and cross diagram
+Double bubble map – used in education
+Drakon-chart
+Entity-relationship diagram (ERD)
+Event-driven process chain
+Euler diagram
+Eye diagram – a diagram of a received telecommunications signal
+Express-G
+Extended functional flow block diagram (EFFBD)
+Family tree
+Feynman diagram
+Flow chart
+Flow process chart
+Flow diagram
+Fusion diagram
+Free body diagram
+Gantt chart – shows the timing of tasks or activities (used in project management)
+Grotrian diagram
+Goodman diagram – shows the fatigue data (example: for a wind turbine blades)
+Hasse diagram
+HIPO diagram
+Internal block diagram (IBD) used in SysML
+IDEF0
+IDEF1 (entity relations)
+Interaction overview diagram – from UML
+Ishikawa diagram
+Jackson diagram
+Karnaugh map
+Kinematic diagram
+Ladder diagram
+Line of balance
+Link grammar diagram
+Martin ERD
+Message sequence chart
+Mind map – used for learning, brainstorming, memory, visual thinking and problem solving
+Minkowski spacetime diagram
+Molecular orbital diagram
+N2
+Nassi–Shneiderman diagram or structogram – a representation for structured programming
+Nomogram
+Network diagram
+Object diagram – from UML 2/9
+Organigram
+Onion diagram – also known as "stacked Venn diagram"
+Package diagram from UML 4/9 and SysML
+Parametric diagram from SysML
+PERT
+Petri net – shows the structure of a distributed system as a directed bipartite graph with annotations
+Phylogenetic tree - represents a phylogeny (evolutionary relationships among groups of organisms)
+Piping and instrumentation diagram (P&ID)
+Phase diagram used to present solid/liquid/gas information
+Plant diagram
+Pressure volume diagram used to analyse engines
+Pourbaix diagram
+Process flow diagram or PFD – used in chemical engineering
+Program structure diagram
+Radar chart
+Radial diagram
+Requirement diagram Used in SysML
+Rich picture
+R-diagram
+Routing diagram
+Sankey diagram – represents material, energy or cost flows with quantity proportional arrows in a process network
+Sentence diagram – represents the grammatical structure of a natural language sentence
+Sequence diagram from UML 8/9 and SysML
+SDL/GR diagram – specification and description Language. SDL is a formal language used in computer science.
+Smith chart
+Spider chart
+Spray diagram
+SSADM – structured systems analysis and design methodology (used in software engineering)
+Star chart/Celestial sphere
+State diagram are used for state machines in software engineering from UML 7/9
+Swim lane
+Syntax diagram used in software engineering to represent a context-free grammar
+Systems Biology Graphical Notation – a graphical notation used in diagrams of biochemical and cellular processes studied in systems biology
+System context diagram
+System structure
+Systematic layout planning
+Timing diagram: digital timing diagram
+Timing diagram: UML 2.0
+TQM diagram
+Treemap
+UML diagram – Unified Modeling Language (used in software engineering)
+Use case diagram – from UML 5/9 and SysML
+Value stream mapping
+Venn diagram
+Voronoi diagram
+Warnier-Orr
+Williot diagram
+Yourdon-Coad – see Edward Yourdon, used in software engineering
+<hr>

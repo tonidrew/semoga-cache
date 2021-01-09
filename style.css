@@ -1,0 +1,32 @@
+.navbar-inverse{background:#3b5998}.archive h2,h1.entry-title{font-size:18px}.container{max-width:960px}.archive .thumbnail{border:none}.navigation{clear:both}h1.entry-title{margin-top:0}.galeri .thumbnail{margin:0 auto;text-align:center;}.galeri h3{margin:0 0 5px;height:30px;overflow:hidden;text-align:center;font-size:13px}.striped{overflow:hidden;margin-top:20px}.striped h2{display:inline-block;padding:0 15px;position:relative;margin-bottom:15px;font-size:22px}.striped h2:after,.striped h2:before{background:#ddd;content:"";display:block;height:1px;position:absolute;top:50%;width:400%}.striped h2:before{right:100%}.striped h2:after{left:100%}.relatedkey ul li{color:#444;display:inline-block;padding:5px}.relatedkey ul li a{background:#337ab7;padding:5px;color:#fff;border-radius:5px}.meta{font-size:80%;font-style:italic;color:#888}.entry-content img{display:block;max-width:100%;border:1px solid #ddd;margin:10px auto}.spreview img{with:100% !important;height:auto}.ads{margin-bottom:15px;}
+.overlay {
+    position: fixed;
+    z-index: 1000; /* Something high */
+    height: 320px;
+    width: 450px;
+    background: white;
+    top: 50%;
+    left: 50%;
+    margin-left: -225px; /* Negative half width */
+    margin-top: -100px; /* Negative half height */
+    box-shadow: 0 0 0 2038px rgba(0,0,0,.5); /* The semi-transparent bg. Something weird about Safari and numbers bigger than this */
+    -webkit-transition: 1s; /* Little extra spice */
+	  border-radius: 5px;
+	  display:block
+}
+.ct{
+	margin: 20px 30px 0 30px;
+	font-size: 12px;
+	text-align:center;line-height:24px;font-weight:bold;
+}
+.blue{
+	color:#2370B6;
+	font-weight:bold;font-size: 16px;
+}
+.red{
+color: #ff0000; font-weight: bold;font-size: 16px;
+}
+.secure{font-size:12px;font-weight:bold;color:#777;margin-top:10px; text-align:center;}
+
+#continue{background:#fff;background:-moz-linear-gradient(top, #2370b6 0%, #226db3 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, #2370b6), color-stop(100%, #226db3));background:-webkit-linear-gradient(top, #2370b6 0%, #226db3 100%);background:-o-linear-gradient(top, #2370b6 0%, #226db3 100%);background:-ms-linear-gradient(top, #2370b6 0%, #226db3 100%);background:linear-gradient(to bottom, #2370b6 0%, #226db3 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='$special-blue', endColorstr='#226db3',GradientType=0 );border:0.0625rem solid #1d64a6;box-shadow:0 0 0 0.0625rem #428dd1 inset;color:#fff;font-size:1.3em;font-weight:bold;padding:1rem 2rem;text-decoration:none;text-transform:uppercase;text-shadow:0 0.0625rem 0 #333;-webkit-border-radius:0.3125rem;border-radius:0.3125rem;}
+#continue:hover{background:#000}

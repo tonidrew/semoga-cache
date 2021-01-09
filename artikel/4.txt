@@ -1,0 +1,171 @@
+A schematic, or schematic [judul], {is a|is really a|is actually a|can be a|is often a|is usually a} {representation|illustration} of {the elements|The weather} {of a|of the} {system|method|program|technique|process|procedure} {using|utilizing|making use of|employing|working with|applying} {abstract|summary}, graphic symbols {rather than|instead of|as opposed to|as an alternative to|in lieu of|rather then} {realistic|reasonable|practical|sensible|real looking} {pictures|photos|images|photographs|pics|shots}. A schematic {usually|generally|typically|normally|commonly|ordinarily} omits all {details|particulars|specifics|information|facts|aspects} {that are not|that aren't} {relevant|related|pertinent|appropriate|suitable|applicable} to {the key|The important thing|The true secret|The main element|The crucial element|The real key} {information|info|details|data|facts|information and facts} the schematic {is intended|is meant} to {convey|Express}, {and may|and will|and should|and could} {include|consist of|contain|incorporate|include things like|involve} oversimplified {elements|components|factors|aspects|things|features} {in order to|to be able to|as a way to|in an effort to|so as to|so that you can} make this {essential|important|crucial|vital|necessary|critical} {meaning|which means|that means|indicating|this means} {easier to|simpler to|much easier to} grasp. {For example|For instance|As an example|By way of example|One example is|Such as}, a subway map {intended|meant|supposed} for {passengers|travellers} {may|might|could|may possibly|may well|may perhaps} {represent|signify|symbolize|depict|characterize|stand for} a subway station {with a|having a|using a|by using a|that has a|which has a} dot. The dot {is not|isn't|just isn't|is just not|will not be|is not really} {intended to|meant to} resemble {the actual|the particular} station {at all|whatsoever|in any respect|in any way|in the least|in the slightest degree}; {instead|rather|as an alternative|alternatively|as a substitute|in its place}, it aims to {give the|provide the} viewer {information|info|details|data|facts|information and facts} {without|with out|without having|with no|devoid of|without the need of} {unnecessary|pointless|needless|unneeded|unwanted|avoidable} {visual|Visible} {clutter|litter|muddle}. A schematic [judul] {of a|of the} chemical {process|procedure|method|approach|course of action|system} {uses|utilizes|makes use of|employs|works by using|takes advantage of} symbols {in place of|instead of|rather than} {detailed|comprehensive|in depth|thorough|specific|in-depth} representations {of the|from the|in the|on the|with the|of your} vessels, piping, valves, pumps, {and other|as well as other|along with other|and also other|together with other|and various} {equipment|gear|tools|products|devices|machines} that compose the {system|method|program|technique|process|procedure}; in so {doing|performing|carrying out|undertaking|executing|accomplishing}, it emphasizes the {functions|features|capabilities} {of these|of those|of such} {individual|person|personal|specific|particular person|unique} {elements|components|factors|aspects|things|features}--{and the|and also the|as well as the|along with the|plus the|as well as} interconnections {among|amongst|amid|between|among the} them--and suppresses their {particular|specific|certain|distinct|unique|individual} {physical|Bodily|Actual physical} {details|particulars|specifics|information|facts|aspects}. {In an|Within an} {electronic|Digital} circuit [judul], the {layout|format|structure} {of the|from the|in the|on the|with the|of your} symbols {may not|might not|may well not} {look|appear|search|seem|glance|glimpse} {anything|something|anything at all|everything|nearly anything|just about anything} {like the|just like the|such as the|much like the|similar to the|such as} circuit {as it|because it|since it|mainly because it} {appears|seems} {in the|within the|inside the|while in the|from the|during the} {physical|Bodily|Actual physical} {world|globe|planet|entire world|earth|environment}: {instead of|rather than|as opposed to|as an alternative to|in place of|in lieu of} {representing|symbolizing} {the way|the way in which|the best way|how|just how} the circuit {looks|appears|seems|seems to be|appears to be like|appears to be}, the schematic aims to {capture|seize}, on {a more|a far more} {general|common|basic|standard|normal|typical} {level|degree|stage|amount}, {the way|the way in which|the best way|how|just how} {it works|it really works}.
+
+<BR><BR>
+Schematics and {other types of|other kinds of|other sorts of} [judul]s, e.g.,
+
+<BR><BR>
+Transit map, a schematic map (i.e. not drawn to scale, stations are equidistant, {lines|traces|strains} are drawn at {45|forty five} and {90|ninety}-{degree|diploma} angles)
+
+ <BR><BR>
+
+{population|populace|inhabitants} density map
+<BR><BR>
+ 
+
+Chemical engineering schematic
+
+ <BR><BR>
+
+Electrical circuit [judul] for TTL counter, a {type of|kind of|sort of|form of|style of|variety of} {state|condition|point out} {machine|device|equipment}
+<BR><BR>
+ 
+
+Schematic {of a|of the} {drive|generate|push|travel} {train|teach|prepare|practice|educate|coach}
+
+ <BR><BR>
+
+exploded {view|see|check out|look at|watch|perspective} {of a|of the} 3D-engineering drawing
+<BR><BR>
+A semi-schematic [judul] {combines|brings together} {some of the|a few of the|a number of the|several of the|many of the|a lot of the} abstraction {of a|of the} purely schematic [judul] with other {elements|components|factors|aspects|things|features} {displayed|shown|exhibited} as realistically {as possible|as you possibly can|as you can|as is possible|as feasible}, for {various|numerous|different|a variety of|several|many} {reasons|factors|causes|motives|good reasons|explanations}. {It is a|It's a|This is a|It is just a|It's really a} compromise {between|in between|among|amongst|involving|concerning} a purely {abstract|summary} [judul] (e.g. the schematic {of the|from the|in the|on the|with the|of your} Washington Metro) and an {exclusively|solely|completely} {realistic|reasonable|practical|sensible|real looking} {representation|illustration} (e.g. the corresponding aerial {view|see|check out|look at|watch|perspective} of Washington).
+
+<BR><BR>
+A semi-schematic map: Tabula Peutingeriana. {While|Whilst|Although|Even though|When|Though} {roads|streets|roadways} and {features|attributes|functions|characteristics|capabilities|options} {appear|seem|look|show up|surface} as {abstract|summary} representations {without|with out|without having|with no|devoid of|without the need of} resemblance to {reality|actuality|fact|truth}, their {locations|places|areas|spots|destinations}, orientations, and distances are as {accurate|correct|precise|exact} {as possible|as you possibly can|as you can|as is possible|as feasible} {to make|to create|to produce|to generate|for making|to help make} the map {practical|sensible|useful|functional|realistic|simple}.
+Electrical and {electronic|Digital} {industry|business|market|sector|marketplace|field}
+{Main|Primary|Principal|Major|Key|Most important} {article|post|write-up|report|short article|posting}: Circuit [judul]
+In electrical and {electronic|Digital} {industry|business|market|sector|marketplace|field}, a schematic [judul] {is often|is usually|is frequently|is commonly} {used|utilized|employed|utilised|applied|made use of} {to describe|to explain} {the design|the look} {of equipment|of apparatus|of kit}. Schematic [judul]s {are often|tend to be|are frequently|are sometimes|in many cases are|will often be} {used for|utilized for|employed for|useful for} {the maintenance|the upkeep} and {repair|restore|fix|mend|repair service|maintenance} of {electronic|Digital} and electromechanical {systems|methods|techniques|programs|devices|units}.{1|one} {Original|Authentic|Unique|First|Initial|Primary} schematics {were|had been|have been|ended up|were being} {done|carried out|completed|accomplished|performed|finished} by hand, {using|utilizing|making use of|employing|working with|applying} standardized templates or pre-printed adhesive symbols, but {today|these days|right now|nowadays|currently|now} {electronic|Digital} {design|style|design and style|layout|style and design|structure} automation {software|software program|computer software|application|software package|program} (EDA or "electrical CAD") {is often|is usually|is frequently|is commonly} {used|utilized|employed|utilised|applied|made use of}.
+<BR><BR>
+In {electronic|Digital} {design|style|design and style|layout|style and design|structure} automation, {until|till|until finally|right up until|until eventually|right until} the {1980s|eighties|nineteen eighties} schematics {were|had been|have been|ended up|were being} {virtually|practically|nearly|almost|just about|pretty much} {the only|the sole|the one|the only real} {formal|official} {representation|illustration} for circuits. {More|Much more|A lot more|Far more|Additional|Extra} {recently|lately|not too long ago|just lately|not long ago|a short while ago}, {with the|Using the|With all the|Together with the|Along with the|While using the} {progress|development} of {computer|Pc|Personal computer|Laptop|Computer system|Laptop or computer} {technology|technologies|engineering|technological innovation|know-how|technological know-how}, other representations {were|had been|have been|ended up|were being} {introduced|launched|released} and {specialized|specialised} {computer|Pc|Personal computer|Laptop|Computer system|Laptop or computer} languages {were|had been|have been|ended up|were being} {developed|created|produced|designed|formulated|made}, {since|because|given that|considering that|due to the fact|considering the fact that} {with the|Using the|With all the|Together with the|Along with the|While using the} explosive {growth|development|progress|expansion|advancement} {of the|from the|in the|on the|with the|of your} complexity of {electronic|Digital} circuits, {traditional|conventional|standard|classic|regular|common} schematics {are becoming|have become|have gotten|are getting to be} {less|much less|significantly less|considerably less|a lot less|fewer} {practical|sensible|useful|functional|realistic|simple}. {For example|For instance|As an example|By way of example|One example is|Such as}, {hardware|components} description languages are indispensable {for modern|for contemporary} {digital|electronic} circuit {design|style|design and style|layout|style and design|structure}.
+<BR><BR>
+Schematics for {electronic|Digital} circuits are {prepared|ready|well prepared|geared up|organized} by designers {using|utilizing|making use of|employing|working with|applying} EDA ({electronic|Digital} {design|style|design and style|layout|style and design|structure} automation) {tools|resources|equipment|instruments|applications} {called|known as|referred to as|named|identified as|termed} schematic {capture|seize} {tools|resources|equipment|instruments|applications} or schematic entry {tools|resources|equipment|instruments|applications}. These {tools|resources|equipment|instruments|applications} {go beyond|transcend} {simple|easy|straightforward|basic|uncomplicated|very simple} drawing of {devices|gadgets|units|products|equipment} and connections. {Usually|Generally|Typically|Normally|Commonly|Ordinarily} {they are|They're|They may be|They can be|These are|They are really} {integrated|built-in} into {the whole|The entire|The full|The complete} {design|style|design and style|layout|style and design|structure} {flow|movement|circulation|stream|move} and {linked to|connected to|associated with} other EDA {tools|resources|equipment|instruments|applications} for verification and simulation {of the|from the|in the|on the|with the|of your} circuit {under|below|beneath|underneath|less than} {design|style|design and style|layout|style and design|structure}.
+<BR><BR>
+In {electric|electrical|electric powered} {power|energy|electrical power|electricity|electric power|ability} {systems|methods|techniques|programs|devices|units} {design|style|design and style|layout|style and design|structure}, a schematic drawing {called|known as|referred to as|named|identified as|termed} a {one|1|a single|one particular|just one|a person}-line [judul] is {frequently|often|regularly|usually|commonly|routinely} {used to|accustomed to|utilized to} {represent|signify|symbolize|depict|characterize|stand for} substations, distribution {systems|methods|techniques|programs|devices|units} {or even|or perhaps|and even|as well as|or maybe|or simply} {whole|entire|complete|total|full} electrical {power|energy|electrical power|electricity|electric power|ability} grids. These [judul]s simplify and compress {the details|the small print|the main points} {that would|that will|that might|that could|that may} be {repeated|recurring} on {each|Every|Each and every|Every single|Just about every|Each individual} {phase|stage|period|section} of {a three|A 3}-{phase|stage|period|section} {system|method|program|technique|process|procedure}, {showing|displaying|exhibiting|demonstrating} {only one|just one} {element|component|factor|aspect|ingredient} {instead of|rather than|as opposed to|as an alternative to|in place of|in lieu of} {three|3|a few}. Electrical [judul]s for switchgear {often|frequently|usually|typically|generally|normally} have {common|typical|frequent|widespread|prevalent|popular} {device|gadget|unit|system|product|machine} {functions|features|capabilities} designate by {standard|regular|normal|common|typical|conventional} {function|perform|operate|purpose|functionality} {numbers|figures|quantities}.
+<BR><BR>
+Schematics in {repair|restore|fix|mend|repair service|maintenance} manuals
+Schematic [judul]s are {used|utilized|employed|utilised|applied|made use of} {extensively|thoroughly} in {repair|restore|fix|mend|repair service|maintenance} manuals {to help|to assist|to aid|to help you|that can help|that will help} {users|customers|consumers|end users|people|buyers} {understand|comprehend|realize|recognize|fully grasp|have an understanding of} the interconnections of {parts|components|elements|areas|sections|pieces}, and {to provide|to supply|to offer|to deliver} graphical instruction {to assist|to help|to aid} in dismantling and rebuilding mechanical assemblies. {Many|Numerous|Several|A lot of|Quite a few|Lots of} automotive and {motorcycle|motorbike|bike} {repair|restore|fix|mend|repair service|maintenance} manuals {devote|dedicate|commit} {a significant|a substantial|a major|a big|an important} {number of|quantity of|variety of|amount of|range of} {pages|webpages|web pages|internet pages} to schematic [judul]s.
+<hr>
+Activity diagram used in UML 6/9 and SysML
+Bachman diagram
+Booch – used in software engineering
+Block diagram
+Block definition diagram (BDD) used in SysML
+Carroll diagram
+Cartogram
+Catalytic cycle
+Computer network diagram
+Chemical equation
+Curly arrow diagram
+Category theory diagrams
+Cause-and-effect diagram
+Chord diagram
+Circuit diagram
+Class diagram – from UML 1/9
+Collaboration diagram – from UML 2.0
+Communication diagram – from UML 2.0
+Commutative diagram
+Comparison diagram
+Component diagram – from UML 3/9
+Composite structure diagram – from UML 2.0
+Concept map
+Constellation diagram
+Context diagram
+Control flow diagram
+Contour diagram
+Cordier diagram
+Cross functional flowchart
+Data model diagram
+Data flow diagram
+Data structure diagram
+Dendrogram
+Dependency diagram
+Deployment diagram – from UML 9/9
+Dot and cross diagram
+Double bubble map – used in education
+Drakon-chart
+Entity-relationship diagram (ERD)
+Event-driven process chain
+Euler diagram
+Eye diagram – a diagram of a received telecommunications signal
+Express-G
+Extended functional flow block diagram (EFFBD)
+Family tree
+Feynman diagram
+Flow chart
+Flow process chart
+Flow diagram
+Fusion diagram
+Free body diagram
+Gantt chart – shows the timing of tasks or activities (used in project management)
+Grotrian diagram
+Goodman diagram – shows the fatigue data (example: for a wind turbine blades)
+Hasse diagram
+HIPO diagram
+Internal block diagram (IBD) used in SysML
+IDEF0
+IDEF1 (entity relations)
+Interaction overview diagram – from UML
+Ishikawa diagram
+Jackson diagram
+Karnaugh map
+Kinematic diagram
+Ladder diagram
+Line of balance
+Link grammar diagram
+Martin ERD
+Message sequence chart
+Mind map – used for learning, brainstorming, memory, visual thinking and problem solving
+Minkowski spacetime diagram
+Molecular orbital diagram
+N2
+Nassi–Shneiderman diagram or structogram – a representation for structured programming
+Nomogram
+Network diagram
+Object diagram – from UML 2/9
+Organigram
+Onion diagram – also known as "stacked Venn diagram"
+Package diagram from UML 4/9 and SysML
+Parametric diagram from SysML
+PERT
+Petri net – shows the structure of a distributed system as a directed bipartite graph with annotations
+Phylogenetic tree - represents a phylogeny (evolutionary relationships among groups of organisms)
+Piping and instrumentation diagram (P&ID)
+Phase diagram used to present solid/liquid/gas information
+Plant diagram
+Pressure volume diagram used to analyse engines
+Pourbaix diagram
+Process flow diagram or PFD – used in chemical engineering
+Program structure diagram
+Radar chart
+Radial diagram
+Requirement diagram Used in SysML
+Rich picture
+R-diagram
+Routing diagram
+Sankey diagram – represents material, energy or cost flows with quantity proportional arrows in a process network
+Sentence diagram – represents the grammatical structure of a natural language sentence
+Sequence diagram from UML 8/9 and SysML
+SDL/GR diagram – specification and description Language. SDL is a formal language used in computer science.
+Smith chart
+Spider chart
+Spray diagram
+SSADM – structured systems analysis and design methodology (used in software engineering)
+Star chart/Celestial sphere
+State diagram are used for state machines in software engineering from UML 7/9
+Swim lane
+Syntax diagram used in software engineering to represent a context-free grammar
+Systems Biology Graphical Notation – a graphical notation used in diagrams of biochemical and cellular processes studied in systems biology
+System context diagram
+System structure
+Systematic layout planning
+Timing diagram: digital timing diagram
+Timing diagram: UML 2.0
+TQM diagram
+Treemap
+UML diagram – Unified Modeling Language (used in software engineering)
+Use case diagram – from UML 5/9 and SysML
+Value stream mapping
+Venn diagram
+Voronoi diagram
+Warnier-Orr
+Williot diagram
+Yourdon-Coad – see Edward Yourdon, used in software engineering
+<hr>

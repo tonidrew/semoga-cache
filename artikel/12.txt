@@ -1,0 +1,260 @@
+{Lets|Let us} {talk about|discuss|speak about|mention|look at|take a look at} wiring faults {in an|within an} {automobile|car|vehicle|auto}. {I will|Ill} {start with|begin with|get started with} {the basics|the fundamentals|the basic principles}. I posted a {video|video clip|movie|online video} {on how to|regarding how to} {use a|make use of a|utilize a} DVOM when {repairing|fixing|restoring}. {In the|Within the|Inside the|While in the|From the|During the} {video|video clip|movie|online video} they {talked about|discussed|mentioned} {checking|examining} a wire for continuity. {What they|The things they|Whatever they} {mean|imply|suggest|indicate|signify|necessarily mean} {is if|is that if} a wire is intact {and not|and never|rather than|instead of} {open|open up}/{cut|Reduce|Lower|Minimize|Slice|Slash} {causing|creating|leading to|triggering|resulting in|producing} {a problem|an issue|a difficulty|a challenge|a dilemma}.
+<BR><BR>
+I {suggest|recommend|propose|advise|counsel} {watching|viewing|observing|seeing|looking at} the {video|video clip|movie|online video} {cause|trigger|result in|lead to|bring about|induce} it {will give you|will provide you with|provides you with|gives you|offers you} {the basic|The fundamental|The essential} {idea|concept|thought|notion|plan|strategy} what {happens|occurs|takes place|transpires|comes about} {when you|whenever you|once you|if you|any time you|after you} {check|Verify|Examine|Check out|Test|Look at} a wire for continuity. Meter beeps or has {a visual|a visible} {symbol|image} {showing|displaying|exhibiting|demonstrating} continuity {of a|of the} wire. {First|Initial|Very first|1st|Initially|To start with} {I must|I have to|I need to} say {never|by no means|in no way|never ever|under no circumstances|hardly ever} use {this method|this process|this technique} when {check|Verify|Examine|Check out|Test|Look at} the resistance of continuity {of an|of the} {automobile|car|vehicle|auto} airbag circuit, {you can|you are able to|youll be able to|it is possible to|you may|you could} {set|established} {off the|from the} airbags if {you do|you need to do|you are doing}. If {repair|restore|fix|mend|repair service|maintenance} {of the|from the|in the|on the|with the|of your} airbags {is needed|is required|is necessary} disconnect the battery {for at least|for a minimum of} two minutes, and disconnect the airbags {from the|in the|from your|through the|with the|within the} circuit. If {you feel|youre feeling|you are feeling|you really feel} {uncomfortable|unpleasant|awkward|not comfortable} {take|consider|get|just take|acquire|choose} it in, {dont|Do not|Never|Will not|Really dont|You should not} {risk|danger|threat|chance|possibility|hazard} {injury|damage|injuries|harm|personal injury} {here|right here|listed here|below|in this article} {to save|to avoid wasting|to save lots of} {a few bucks|a couple of dollars|a couple of bucks}.
+<BR><BR>
+There {a few|a couple of|several|a number of|some|a handful of} {things|issues|items|factors|points|matters} {to keep in mind|to bear in mind|to remember} when {repairing|fixing|restoring} a wire {of a|of the} circuit {that you|that you simply|which you|that you just|you|that you choose to} {may|might|could|may possibly|may well|may perhaps} {believe|think|feel|imagine|believe that|consider} {to have|to possess|to get|to own|to acquire|to obtain} {a problem|an issue|a difficulty|a challenge|a dilemma}. {Just because|Simply because|Because} {there is a|Theres a|There exists a|You will find a|You will find theres} beep/continuity {on a|on the|over a|with a} wire {does not|doesnt|will not|isnt going to|wont|would not} {make it|allow it to be|ensure it is|help it become|enable it to be} {ok|Okay|Alright}. A wire can {still|nonetheless|nevertheless|even now|however|continue to} be {holding|Keeping} on by a strand {showing|displaying|exhibiting|demonstrating} it {is good|is nice|is sweet}, {but it|however it|nevertheless it|nonetheless it|but it surely|but it really} {might not be|may not be} {enough|sufficient|adequate|ample|plenty of|more than enough} {to carry|to hold} a load/{power|energy|electrical power|electricity|electric power|ability}. {Always|Usually|Often|Constantly|Generally|Normally} {check|Verify|Examine|Check out|Test|Look at} the wire {to a|to some|into a|to your|to the} {ground|floor} {point|stage|level|position|place|issue} a {make sure|make certain|ensure|be sure|ensure that|be certain} it {shows|exhibits|displays|demonstrates|reveals} no continuity. There {should|ought to|must|need to|really should|should really} {never|by no means|in no way|never ever|under no circumstances|hardly ever} {be a|be considered a|become a|be described as a|certainly be a} {ground|floor} {point|stage|level|position|place|issue} on {a power|an influence} wire; {this will|this may|this can|this will likely|this could|this tends to} {cause|trigger|result in|lead to|bring about|induce} a fuse to blow. When {checking|examining} a wire {in an|within an} {automobile|car|vehicle|auto} circuit the {best thing|neatest thing|smartest thing} {to do|to complete|to accomplish|to perform|to try and do|to carry out} is {place|location|spot|area|position|put} your meter probe from {where|exactly where|in which|the place|wherever|where by} the wire {starts|begins|commences|starts off} {and a|along with a|as well as a|plus a|and also a|in addition to a} probe on its {end|finish|stop|conclude|conclusion|close} {point|stage|level|position|place|issue}. {You may not|You might not} {always|usually|often|constantly|generally|normally} {be able to|have the ability to|be capable of|be capable to|have the capacity to|manage to} {reach|attain|achieve|get to|access|arrive at} these, so {break down|stop working} a wire with connectors. {Take|Consider|Get|Just take|Acquire|Choose} connectors out {of the|from the|in the|on the|with the|of your} circuit and probe from {one|1|a single|one particular|just one|a person} connector {to another|to a different}. {Always|Usually|Often|Constantly|Generally|Normally} {back|back again|again} probe a connector {never|by no means|in no way|never ever|under no circumstances|hardly ever} {front|entrance} probe. {You can|You are able to|Youll be able to|It is possible to|You may|You could} {damage|harm|injury|hurt|problems|destruction} pins {causing|creating|leading to|triggering|resulting in|producing} {more|much more|a lot more|far more|additional|extra} {problems|issues|difficulties|troubles|challenges|complications}. The connector {should have|must have|ought to have} {numbers|figures|quantities} on which pin is which, but {they are|Theyre|They may be|They can be|These are|They are really} {very|extremely|really|quite|incredibly|pretty} {small|little|tiny|modest|smaller|compact} to {read|study|go through|read through|examine|browse}. Go by wire {color|colour|shade|coloration} {from your|out of your|from the|from a} wiring [judul].
+<BR><BR>
+{I will|Ill} {draw|attract} up some {different ways|other ways|alternative ways|various ways} {to test|to check} circuits and there {most common|most typical|most frequent|most popular|commonest|most commonly encountered} faults. Bent pins, {open|open up} {female|feminine|woman} pins, pinched wires, {cut|Reduce|Lower|Minimize|Slice|Slash} harness, melted harness and {improper|incorrect|inappropriate|poor} {testing|screening|tests} {are some|are a few} {reasons|factors|causes|motives|good reasons|explanations} for {automobile|car|vehicle|auto} wiring faults. {Most of the time|More often than not|Usually} {you will find|youll find|you will discover|youll discover|you can find|you will see} a fuse {that has|which has|which includes} blown, so {you put|you place|you set} {one|1|a single|one particular|just one|a person} in. It {may work|may match|may fit|may go}, but {what if|Lets say|Imagine if} it blows out {later|later on|afterwards} or if {right|correct|proper|appropriate|suitable|ideal} {when you|whenever you|once you|if you|any time you|after you} out {a new|a brand new|a fresh|a whole new|a different|a completely new} {one|1|a single|one particular|just one|a person} in? You {are going to|are likely to|will} {need|require|want|need to have|will need|have to have} {to find|to locate|to discover|to seek out|to search out|to uncover} {the cause of|the reason for} this. {You could|You can|You may|You might|You could possibly|You could potentially} {take|consider|get|just take|acquire|choose} it in {to a|to some|into a|to your|to the} {shop|store}. But most {places|locations|areas|spots|destinations|sites} {may not be|might not be|will not be|is probably not} has {skilled|experienced|competent|expert|qualified|proficient} in wiring {testing|screening|tests}, or have {the right|the proper|the correct|the best|the appropriate|the ideal} {equipment|gear|tools|products|devices|machines}. {You could|You can|You may|You might|You could possibly|You could potentially} {take|consider|get|just take|acquire|choose} it {to a|to some|into a|to your|to the} {dealer|vendor|seller|supplier}, but {it may|it might|it could|it may well} {cost you|set you back} {a pretty|a fairly|a reasonably} penny. {Once you|When you|After you|As soon as you|When you finally|As you} {find out|discover|learn|figure out|determine|uncover} {what is|whats|what exactly is|precisely what is|what on earth is|exactly what is} was you {could have|might have} {fixed|set|mounted|fastened|preset} it {yourself|your self|oneself|by yourself|on your own|you}. {Try|Attempt|Try out|Consider|Test|Check out} a {fix|repair|resolve|correct|deal with|take care of} it {yourself|your self|oneself|by yourself|on your own|you} {first|initial|very first|1st|initially|to start with}. {Do not|Dont|Usually do not|Tend not to|Will not|Never} go and {destroy|ruin|wipe out|demolish|damage} your {automobile|car|vehicle|auto} {while|whilst|although|even though|when|though} {doing|performing|carrying out|undertaking|executing|accomplishing} this. {Take|Consider|Get|Just take|Acquire|Choose} {your time|your time and effort|your time and efforts|your time and energy} and {look at|take a look at|examine|have a look at|check out|evaluate} {thing|factor|point|issue|matter|detail} {closely|carefully|intently}.
+<BR><BR>
+{A good|A great|An excellent|A superb|A fantastic|A very good} DVOM, wiring [judul] and {some time|a while} could {save|conserve|preserve|help save|help you save} you {some money|some cash} {on your|in your|with your|on your own|on the} {automobile|car|vehicle|auto} wiring repairs. {I will|Ill} {post|publish|submit|put up|article|write-up} some drawings of how {to test|to check} circuit and there {different|various|distinct|diverse|unique|distinctive} {problems|issues|difficulties|troubles|challenges|complications}. {It will be|It will likely be|Itll be|Its going to be|Will probably be|It will probably be} {easier|simpler|less difficult|less complicated|much easier|a lot easier} {to explain|to clarify|to elucidate} and {easier|simpler|less difficult|less complicated|much easier|a lot easier} {for you to|so that you can|that you should} see how {to test|to check} for faults.
+
+Free Download [judul] 1080p,1920 x 1080 FHD,Full HD resolution,2K,2048 x 1080,2000,1440p,2560 x 1440,QHD,Quad HD resolution,1440p,HD ready,4K,2160p,3840 x 216,UHD,Ultra HD resolution,,4000 pixels,8K,4320p,7680 x 4320,HD Quality file format ,JPEG,JPEG XR,JPEG 2000,JPEG XS,PNG,WebP,HEIF,PDF,EPUB,MOBI
+
+Flat (1.85:1)  /  3996x2160
+Scope (2.39:1)  /  4096x1716
+QuadHD (16:9)  /  3840x2160
+Full Container  /  4096x2160
+Flat (1.85:1)  /  1998x1080
+Scope (2.39:1)  /  2048x858
+QuadHD (16:9)  /  1920x1080
+Full Container  /  2048x1080
+1.33:1 (4:3)  /  5120x3840
+1.66:1 (5:3)  /  5120x3072
+1.77:1 (16:9)  /  5120x2880
+1.85:1  /  5120x2768
+1.9:1 (Epic Full Frame)  /  5120x2700
+2:1  /  5120x2560
+2.37:1 (RED 5k Wide)  /  5120x2160
+2.39:1 (referred to as 2.40)  /  5120x2142
+2.44  /  5120x2098
+2.35:1  /  5120x2179
+1.33:1 (4:3)  /  4096x3072
+1.66:1 (5:3)  /  4096x2458
+1.77:1 (16:9)  /  4096x2304
+1.85:1  /  4096x2214
+1.9:1 (Native 4k Red)  /  4096x2160
+2:1  /  4096x2048
+2.35:1  /  4096x1679
+2.37:1 (RED Wide)  /  4096x1743
+2.39:1 (referred to as 2.40)  /  4096x1728
+2.44  /  4096x1714
+1.33:1 (4:3)  /  3840x2880
+1.66:1 (5:3)  /  3840x2304
+1.77:1 (16:9)  /  3840x2160
+1.85:1  /  3840x2076
+2:1  /  3840x1920
+2.35:1  /  3840x1634
+2.37:1 (RED Wide)  /  3840x1620
+2.39:1 (referred to as 2.40)  /  3840x1607
+2.44  /  3840x1574
+1.33:1 (4:3)  /  2048x1536
+1.66:1 (5:3)  /  2048x1229
+1.77:1 (16:9)  /  2048x1152
+1.85:1  /  2048x1107
+2:1  /  2048x1024
+2.35:1  /  2048x871
+2.37:1 (RED Wide)  /  2048x864
+2.39:1 (referred to as 2.40)  /  2048x858
+2.44  /  2048x839
+1.66:1 (5:3)  /  1920x1152
+1.77:1 (16:9)  /  1920x1080
+1.85:1  /  1920x1038
+2:1  /  1920x960
+2.35:1  /  1920x817
+2.37:1 (RED Wide)  /  1920x810
+2.39:1 (referred to as 2.40)  /  1920x803
+2.40:1 (Blu-Ray)  /  1920x800
+2.44  /  1920x787
+1.33:1 (4:3)  /  1920x1440
+<br>
+{There are|You will find|You can find|You'll find} [judul] {at least|a minimum of|no less than|at the very least} {the following|the next|these|the subsequent} {types of|kinds of|forms of|varieties of} [negara]:
+
+Chart-like [negara], which take {a collection of|an accumulation of|an accumulation|an amount of} items and relationships {between them|together|bewteen barefoot and shoes|with shod and non-shod}, and express them {by giving|by providing|giving|by offering} {each item|the items} a 2D position, {while the|as the|even though the|whilst the} relationships are expressed as connections {between the|between your|involving the|relating to the} items or overlaps {between the|between your|involving the|relating to the} items {examples of|types of|samples of|instances of} such techniques:
+
+tree diagram
+
+network diagram
+
+flowchart
+
+Venn diagram
+
+existential graph
+
+Graph-based diagrams these display {a relationship|rapport|a romantic relationship|a partnership} between two variables that take either discrete {or a|or perhaps a|or even a|or possibly a} continuous ranges of values examples:
+
+histogram
+
+bar graph
+
+pie chart
+
+function graph
+
+scatter plot
+
+Schematics and {other types of|other kinds of|other sorts of|other} diagrams, e.g.,
+
+train schedule diagram
+
+exploded view
+
+population density map
+
+Pioneer plaque
+
+Three-dimensional diagram
+
+{Many of these|A number of these|Several|Several of these} {types of|kinds of|forms of|varieties of} diagrams {are commonly|are generally|are normally|can be} generated using diagramming software {such as|for example|including|like} Visio and Gliffy. {Thousands of|A large number of|A huge number of|1000s of} diagram techniques exist. {Some more|More|Even more|A lot more} examples follow.
+
+Diagrams {may also be|can also be|can be|are often} classified {according to|based on|in accordance with|as outlined by} use or purpose, {for example|for instance|as an example|by way of example}, explanatory and/or {how to|how you can|the way to|the best way to} diagrams.
+<br>
+<blockquote cite="https://en.wikipedia.org/wiki/Diagram">
+A
+Activity diagram used in UML 6/9 and SysML
+B
+Bachman diagram
+Booch used in software engineering
+Block diagram
+Block Definition Diagram  BDD  used in SysML
+C
+Carroll diagram
+Cartogram
+Catalytic cycle
+Chemical equation
+Curly arrow diagram
+Category theory diagrams
+Cause-and-effect diagram
+Chord diagram
+Circuit diagram
+Class diagram from UML 1/9
+Collaboration diagram from UML 2.0
+Communication diagram from UML 2.0
+Commutative diagram
+Comparison diagram
+Component diagram from UML 3/9
+Composite structure diagram from UML 2.0
+Concept map
+Constellation diagram
+Context diagram
+Control flow diagram
+Contour diagram
+Cordier diagram
+Cross functional flowchart
+D
+Data model diagram
+Data flow diagram
+Data structure diagram
+Dendrogram
+Dependency diagram
+Deployment diagram from UML 9/9
+Dot and cross diagram
+Double bubble map used in education
+Drakon-chart
+E
+Entity-Relationship diagram  ERD 
+Event-driven process chain
+Euler diagram
+Eye diagram a diagram of a received telecommunications signal
+Express-G
+Extended Functional Flow Block Diagram  EFFBD 
+F
+Family tree
+Feynman diagram
+Flow chart
+Flow process chart
+Flow diagram
+Fusion diagram
+Free body diagram
+G
+Gantt chart shows the timing of tasks or activities  used in project management 
+Grotrian diagram
+Goodman diagram shows the fatigue data  example: for a wind turbine blades 
+H
+Hasse diagram
+HIPO diagram
+I
+Internal Block Diagram  IBD  used in SysML
+IDEF0
+IDEF1  entity relations 
+Interaction overview diagram from UML
+Ishikawa diagram
+J
+Jackson diagram
+K
+Karnaugh map
+Kinematic diagram
+L
+Ladder diagram
+Line of balance
+Link grammar diagram
+M
+Martin ERD
+Message Sequence Chart
+Mind map used for learning, brainstorming, memory, visual thinking and problem solving
+Minkowski spacetime diagram
+Molecular orbital diagram
+N
+N2
+Nassi Shneiderman diagram or structogram a representation for structured programming
+Nomogram
+Network diagram
+O
+Object diagram from UML 2/9
+Organigram
+Onion diagram also known as "stacked Venn diagram"
+P
+Package diagram from UML 4/9 and SysML
+Parametric diagram from SysML
+PERT
+Petri net shows the structure of a distributed system as a directed bipartite graph with annotations
+Phylogenetic tree - represents a phylogeny  evolutionary relationships among groups of organisms 
+Piping and instrumentation diagram  P&ID 
+Phase diagram used to present solid/liquid/gas information
+Plant Diagram
+Pressure volume diagram used to analyse engines
+Pourbaix diagram
+Process flow diagram or PFD used in chemical engineering
+Program structure diagram
+R
+Radar chart
+Radial Diagram
+Requirement Diagram Used in SysML
+Rich Picture
+R-diagram
+Routing diagram
+S
+Sankey diagram represents material, energy or cost flows with quantity proportional arrows in a process network.
+Sentence diagram represents the grammatical structure of a natural language sentence.
+Sequence diagram from UML 8/9 and SysML
+SDL/GR diagram Specification and Description Language. SDL is a formal language used in computer science.
+Smith chart
+Spider chart
+Spray diagram
+SSADM Structured Systems Analysis and Design Methodology  used in software engineering 
+Star chart/Celestial sphere
+State diagram are used for state machines in software engineering from UML 7/9
+Swim lane
+Syntax diagram used in software engineering to represent a context-free grammar
+Systems Biology Graphical Notation a graphical notation used in diagrams of biochemical and cellular processes studied in Systems biology
+System context diagram
+System structure
+Systematic layout planning
+T
+Timing Diagram: Digital Timing Diagram
+Timing Diagram: UML 2.0
+TQM Diagram
+Treemap
+U
+UML diagram Unified Modeling Language  used in software engineering 
+Use case diagram from UML 5/9 and SysML
+V
+Value Stream Mapping
+Venn diagram
+Voronoi diagram
+W
+Warnier-Orr
+Williot diagram
+Y
+Yourdon-Coad see Edward Yourdon, used in software engineering
+</blockquote>
